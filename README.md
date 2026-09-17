@@ -1,1 +1,1 @@
-# bakey-privacy-policy
+Page of privacy policy for Bakey.
