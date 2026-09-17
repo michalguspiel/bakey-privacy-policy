@@ -10,7 +10,7 @@ This Privacy Policy explains how we collect, use, and protect your information w
 ## 1. Data Collection and Usage
 
 ### a) User-Provided Data  
-- **Authentication**: We use **Firebase Authentication** to manage user accounts. When you sign up or log in, we collect necessary information such as your email address and authentication credentials.
+- **Authentication**: We use **Supabase** to manage user accounts. When you sign up or log in, we collect necessary information such as your email address and authentication credentials.
 - **App Data**: Data you create and enter in the app (e.g., recipes, bake logs, formulas) is stored securely in our **Supabase Database**. This allows you to sync your baking data across your devices and access it whenever you need it.
 
 ### b) Automatically Collected Data  
